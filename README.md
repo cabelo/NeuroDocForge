@@ -75,3 +75,8 @@ Feel free to open an issue, comment in Discussions, or reach out if you'd like t
 
 Alessandro de Oliveira Faria (A.K.A. CABELO) - cabelo@opensuse.org
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/rB6FqQuwFVQ/hqdefault.jpg)](https://www.youtube.com/watch?v=rB6FqQuwFVQ)
+
+
