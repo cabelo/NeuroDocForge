@@ -73,3 +73,5 @@ Feel free to open an issue, comment in Discussions, or reach out if you'd like t
 
 > *“Because understanding code shouldn’t be harder than writing it.”*
 
+Alessandro de Oliveira Faria (A.K.A. CABELO) - cabelo@opensuse.org
+
