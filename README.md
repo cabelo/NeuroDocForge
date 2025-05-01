@@ -1,5 +1,6 @@
-# NeuroDocForge
-AI-powered tool that automatically documents source code written in any programming language
+
+![image](https://github.com/user-attachments/assets/7de1254d-b078-401d-9390-f58a10ada536)
+
 # 🧠 NeuroDocForge
 
 [![Project Status](https://img.shields.io/badge/status-in%20development-yellow)](#)
