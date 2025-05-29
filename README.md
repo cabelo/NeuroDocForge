@@ -49,10 +49,26 @@
 
 ---
 
-## 📦 Installation (Coming with v1.0)
+## 📦  Dependencies and Installation
+```bash
+# clone NeuroDocForge repo
+$ git clone https://github.com/cabelo/NeuroDocForge/
+$ cd NeuroDocForge
 
-Setup instructions will be available once the first public release is finalized.
+# create env
+$ python -m venv .venv
 
+# activate env
+$ source .venv/bin/activate
+
+# install dependent packages
+$ pip install -r requirements.txt
+
+# Convert openVINO model
+$ optimum-cli export openvino --trust-remote-code --model meta-llama/Meta-Llama-3-8B-Instruct Meta-Llama-3-8B-Instruct-ov
+
+# Run NeuroDocForge
+python neurodocforge.py
 ---
 
 ## 📜 License
