@@ -32,15 +32,6 @@
 
 ---
 
-## 📷 Preview (Coming Soon)
-
-<!-- You can add a screenshot or GIF later here -->
-```
-![screenshot-placeholder](https://via.placeholder.com/800x400?text=NeuroDocForge+Preview)
-```
-
----
-
 ## 🧠 Powered By
 
 - [OpenVINO™ Toolkit](https://www.intel.com/openvino)
@@ -69,13 +60,14 @@ $ optimum-cli export openvino --trust-remote-code --model meta-llama/Meta-Llama-
 
 # Run NeuroDocForge
 python neurodocforge.py
+```
 ---
 
 ## 📜 License
 
 This project will be licensed under the **MIT License**.
 
----
+
 
 ## 🤝 Contributing
 
