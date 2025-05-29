@@ -26,9 +26,9 @@
 | Feature                             | Status        |
 |-------------------------------------|---------------|
 | Chat-based documentation (MVP)      | ✅ Complete    |
-| File upload with auto-processing    | 🚧 In progress |
-| UI improvements                     | ⏳ Planned     |
-| Version 1.0 release (public code)   | ⏳ ETA ~20 days |
+| File upload with auto-processing    | ✅ Complete    |
+| UI improvements                     | ✅ Complete    |
+| Version 1.0 release (public code)   | ✅ Complete    |
 
 ---
 
