@@ -5,7 +5,7 @@
 
 [![Project Status](https://img.shields.io/badge/status-in%20development-yellow)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
-[![Version](https://img.shields.io/badge/version-1.0--rc1-informational)](#)
+[![Version](https://img.shields.io/badge/version-1.0-informational)](#)
 
 **NeuroDocForge** is an AI-powered tool that automatically documents source code written in *any* programming language. It leverages state-of-the-art LLMs optimized with **OpenVINO™**, enabling fast, efficient inference on **CPU**, **GPU**, and **NPU** — even on local machines.
 
